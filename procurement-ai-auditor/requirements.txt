@@ -1,0 +1,6 @@
+requests>=2.31
+urllib3>=2.0
+pandas>=2.0
+openpyxl>=3.1
+# Optional: required only for real SAP RFC integration
+pyrfc>=3.3
